@@ -1,3 +1,3 @@
 # Python
 Python programmer
-*Hei dette er tekst
+##Hei dette er tekst
