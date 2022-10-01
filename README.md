@@ -1,4 +1,2 @@
 # Python
-Python programmer
-
-##Hei dette er tekst
+Utvalg av noen Python programmer jeg har jobbet med tidligere
