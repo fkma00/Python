@@ -1,5 +1,3 @@
-import math
-
 def quicksort(a, low, high):
     if low >= high:
         return a
@@ -32,9 +30,3 @@ def partition(a, low, high):
 
 def choosePivot(a, low, high):
     return (low + high) // 2
-    
-a = [80, 91, 7, 33, 50, 70, 13, 321, 12]
-low = 0
-high = len(a)-1      
-quicksort(a, low, high)
-print(a)
