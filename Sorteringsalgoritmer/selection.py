@@ -8,7 +8,3 @@ def selectionsort(a):
                         
         if i != k:
             a[i], a[k] = a[k], a[i]
-            
-a = [80, 91, 7, 33, 50, 70, 13, 321, 12]       
-selectionsort(a)
-print(a)
